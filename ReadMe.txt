@@ -1,6 +1,4 @@
-******* Question 1:- 
-
-1)  Commands For execution :-
+Commands For execution :-
      **** Open Three Terminals  and execute the following 
 
     1st terminal :-  1) g++ gameserver.cpp -o gameserver
